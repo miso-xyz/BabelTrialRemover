@@ -6,8 +6,9 @@ if you just don't want the trial restriction without getting your application br
 
 # Options
 <pre>
-Remove 30 Day Trial Code | Unstable, will likely brick the targetted assembly
-Disable/Enable 30 Day Trial Code | Stable, works perfectly
+1: Remove 30 Day Trial Code  | Unstable, will likely brick the targetted assembly
+2: Disable 30 Day Trial Code | Stable, works perfectly
+3: Enable 30 Day Trial Code  | Stable, works perfectly
 
 ToDo:
 - Get Remaining time
